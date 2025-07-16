@@ -1,3 +1,0 @@
-1)name
-2)room
-3)section
